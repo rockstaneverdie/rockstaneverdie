@@ -10,5 +10,6 @@ swift ∿ swiftui ∿ vision ∿ create ml
 
 ✦ connect
 ✉ rockstaneverdie@gmail.com
-in linkedin.com/in/vladimir-vizhunov-5964213b5
+in LinkedIn: [https://www.linkedin.com/in/vladimir-vizhunov-5964213b5/]
 tg @stillrocksta
+
