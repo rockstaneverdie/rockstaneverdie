@@ -1,16 +1,14 @@
-## Hi there 👋
+> hi, i'm vladimir ⚡︎
 
-<!--
-**rockstaneverdie/rockstaneverdie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ios developer × ui/ux designer ⌖ almaty, kz
 
-Here are some ideas to get you started:
+✦ currently building
+[ koko ] ↬ hand gesture recognition via vision & create ml. interactive learning > passive videos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✦ stack
+swift ∿ swiftui ∿ vision ∿ create ml
+
+✦ connect
+✉ rockstaneverdie@gmail.com
+in linkedin.com/in/vladimir-vizhunov-5964213b5
+tg @stillrocksta
