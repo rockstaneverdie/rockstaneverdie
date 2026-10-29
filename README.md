@@ -11,7 +11,7 @@ i work on identity, interfaces and internal tools. mostly in figma, sometimes in
 - [web design system](https://rockstaneverdie.github.io/portfolio/work/design-system.html) for an exhibition-stand builder
 - [design hub](https://rockstaneverdie.github.io/portfolio/work/design-hub.html), an internal portal for brand files
 - [proposal platform](https://rockstaneverdie.github.io/portfolio/work/proposal-platform.html), sales proposals as web pages
-- [koko](https://rockstaneverdie.github.io/portfolio/work/koko.html), illustrations for a sign-language app
+- [koko](https://rockstaneverdie.github.io/portfolio/work/koko.html), my ios app for learning sign language
 
 all case studies: [rockstaneverdie.github.io/portfolio](https://rockstaneverdie.github.io/portfolio/)
 
