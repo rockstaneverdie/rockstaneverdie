@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="vladimir vizhunov, @rocksta. design / ios, almaty" src="assets/banner-light.svg" width="100%">
+  <img alt="vladimir vizhunov, @stillrocksta. design / ios, almaty" src="assets/banner-light.svg" width="100%">
 </picture>
 
 designer and ios developer in almaty.
