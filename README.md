@@ -3,7 +3,7 @@
   <img alt="vladimir vizhunov, @stillrocksta. design / code, almaty" src="assets/banner-light.svg" width="100%">
 </picture>
 
-designer and ios developer in almaty.
+designer and developer in almaty.
 i work on identity, interfaces and internal tools. mostly in figma, sometimes in code.
 
 ### work
